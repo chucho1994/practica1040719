@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica1040719</string>
+
+    <string name="ingresa_nombre">Ingresa Nombre</string>
+
+    <string name="Nombre">Nombre</string>
+
+    <string name="ingresa_apellido">Apellido</string>
+
+    <string name="apellido">apellido</string>
+
+    <string name="ingresa_contraseña">contraseña</string>
+
+    <string name="contraseña">contraseña</string>
+
+
+</resources>
